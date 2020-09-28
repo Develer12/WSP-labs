@@ -1,0 +1,10 @@
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+D:\Subject\WebServices\Lab\Lab4\Forms\bin\Debug\Forms.exe.config
+D:\Subject\WebServices\Lab\Lab4\Forms\bin\Debug\Forms.exe
+D:\Subject\WebServices\Lab\Lab4\Forms\bin\Debug\Forms.pdb
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.exe
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.pdb
+D:\Subject\WebServices\Lab\Lab4\Forms\obj\Debug\Forms.Form1.resources

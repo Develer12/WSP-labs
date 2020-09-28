@@ -1,0 +1,10 @@
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\bin\Debug\FormsProxy.exe.config
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\bin\Debug\FormsProxy.exe
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\bin\Debug\FormsProxy.pdb
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.csprojAssemblyReference.cache
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.Form1.resources
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.Properties.Resources.resources
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.csproj.GenerateResource.cache
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.csproj.CoreCompileInputs.cache
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.exe
+D:\Subject\WebServices\Lab\Lab4\FormsProxy\obj\Debug\FormsProxy.pdb
